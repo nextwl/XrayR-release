@@ -16,15 +16,3 @@ Find the source code here: [nextwl/XrayR](https://github.com/nextwl/XrayR)
 bash <(curl -Ls https://raw.githubusercontent.com/nextwl/XrayR-release/master/install.sh)
 ```
 
-# Docker 一键启动
-
-```
-docker run -d   --name xrayr   --network host   --restart always  \
-  -e ApiHost=your_api_host  \
-  -e ApiKey=your_api_key  \
-  -e NodeID=1  \
-  -e NodeType=Vless  \
-  -e EnableREALITY=true  \
-  ghcr.io/nextwl/xrayr:latest
-
-```
