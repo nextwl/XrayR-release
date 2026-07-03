@@ -10,6 +10,9 @@ Find the source code here: [nextwl/XrayR](https://github.com/nextwl/XrayR)
 
 [教程](https://xrayr-project.github.io/XrayR-doc/)
 
+快速VPN [便宜VPN](https://www.pxxcloud.top/)
+
+
 # 一键安装
 
 ```
